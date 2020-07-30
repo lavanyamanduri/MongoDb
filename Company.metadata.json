@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"lms.Company"}],"uuid":"d6f760dd98584e2f9a0fa3d597b9b560"}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"lms.MentorTechStack"}],"uuid":"db2e994652814c8ba2ebbe2f96193d77"}
